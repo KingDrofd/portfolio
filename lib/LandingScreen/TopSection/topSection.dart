@@ -18,7 +18,7 @@ Padding topSection() {
               )),
           Expanded(
             flex: 6,
-            child: Text(""),
+            child: infoSection(),
           ),
         ],
       ),
